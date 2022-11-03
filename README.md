@@ -1,2 +1,2 @@
 # Belly_Button
-This project dislpays different charts  for belly button deversity using plotly.
+This project dislpays different charts  for belly button biodeversity using plotly.
